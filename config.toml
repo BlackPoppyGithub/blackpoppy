@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/blackpoppy/"
 languageCode = "en-us"
 title = "Retroful Hugo"
 theme = "retrofulhugo"
