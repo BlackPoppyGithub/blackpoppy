@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Retroful Hugo"
 theme = "retrofulhugo"
 pygmentsUseClasses = true
+publishDir = 'publish'
 #googleAnalytics = "XXX"
 #disqusShortname = "XXX"
 
