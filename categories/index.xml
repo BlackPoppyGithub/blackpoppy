@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Retroful Hugo</title>
-    <link>/blackpoppy/categories/</link>
-    <description>Recent content in Categories on Retroful Hugo</description>
+    <title>Categories on 黑色波比</title>
+    <link>https://blackpoppygithub.github.io/blackpoppy/categories/</link>
+    <description>Recent content in Categories on 黑色波比</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>your email (your name)</managingEditor>
-    <webMaster>your email (your name)</webMaster>
+    <language>zh-cn</language>
+    <managingEditor>black_poppy@outlook.com (Black Poppy)</managingEditor>
+    <webMaster>black_poppy@outlook.com (Black Poppy)</webMaster>
     
-	<atom:link href="/blackpoppy/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blackpoppygithub.github.io/blackpoppy/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Development</title>
-      <link>/blackpoppy/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>your email (your name)</author>
-      <guid>/blackpoppy/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>/blackpoppy/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>your email (your name)</author>
-      <guid>/blackpoppy/categories/golang/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

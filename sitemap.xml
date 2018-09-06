@@ -3,98 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blackpoppy/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/apple-service-and-unlock/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blackpoppy/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/about/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blackpoppy/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/disclaimer/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blackpoppy/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/post/help-my-friend-unlock-ipad/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blackpoppy/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/categories/</loc>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blackpoppy/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/post/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blackpoppy/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blackpoppy/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blackpoppy/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://blackpoppygithub.github.io/blackpoppy/</loc>
+    <lastmod>2018-09-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

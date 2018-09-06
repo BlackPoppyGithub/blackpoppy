@@ -1,61 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Retroful Hugo</title>
-    <link>/blackpoppy/post/</link>
-    <description>Recent content in Posts on Retroful Hugo</description>
+    <title>Posts on 黑色波比</title>
+    <link>https://blackpoppygithub.github.io/blackpoppy/post/</link>
+    <description>Recent content in Posts on 黑色波比</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>your email (your name)</managingEditor>
-    <webMaster>your email (your name)</webMaster>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <language>zh-cn</language>
+    <managingEditor>black_poppy@outlook.com (Black Poppy)</managingEditor>
+    <webMaster>black_poppy@outlook.com (Black Poppy)</webMaster>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blackpoppy/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blackpoppygithub.github.io/blackpoppy/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/blackpoppy/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      <author>your email (your name)</author>
-      <guid>/blackpoppy/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/blackpoppy/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      <author>your email (your name)</author>
-      <guid>/blackpoppy/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/blackpoppy/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>your email (your name)</author>
-      <guid>/blackpoppy/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/blackpoppy/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <author>your email (your name)</author>
-      <guid>/blackpoppy/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <title>朋友忘记 iCloud 账户后升级系统 iPad 被锁了，立刻帮忙解锁！</title>
+      <link>https://blackpoppygithub.github.io/blackpoppy/post/help-my-friend-unlock-ipad/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      <author>black_poppy@outlook.com (Black Poppy)</author>
+      <guid>https://blackpoppygithub.github.io/blackpoppy/post/help-my-friend-unlock-ipad/</guid>
+      <description>之前朋友的 iPad 不小心点了升级系统，升级到 IOS 11 后提示需要输入 iCloud 账号密码解锁。但 Ta 早已不记得相关账号，于是找我帮忙解锁。
+在网上找了许多资料后发现，解锁 iCloud 是件相当麻烦的事情。
+解锁分 “软件解锁” 与 “硬件解锁”。
+首先，我调研的所谓 “软件解锁” 简直就是，“坑蒙拐骗，浪费时间”。
+“坑蒙拐骗” 指的是，可能出现这几种情况：
+ 商家可能假装帮忙解锁，并使用各种套路骗客户钱财。 如果是要解锁别人的机器（机器是捡到等），商家可能会使用各种非法手段（钓鱼、欺骗等）联系机器原本账户的主人，把账号密码套过来。  “浪费时间” 指的是，诸如 Youtube 上各种神奇的 “软件解锁” 视频教程，几乎全是假的，骗播放量的。
+反而，“硬件解锁” 却靠谱得多，但也有一定拆装硬件（屏幕等）的风险。
+但靠谱的 “硬件解锁” 师傅可不好找。诸如 “中关村”，“华强北” 之类的地方，前几年鱼龙混杂容易被骗，近几年监管愈严厉，据说查到要去局里做笔录！许多商家都不做相关业务了。
+机缘巧合，让我找到一位还做这个的师傅。师傅的小店非常偏僻，我们去店里找他，在店里等了他好久，但最后终于解锁成功了。
+所以，最后将师傅推荐给大家，希望能有帮助。
+苹果服务, 维修, iPad 解锁, 北京实体店</description>
     </item>
     
   </channel>
