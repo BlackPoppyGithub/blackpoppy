@@ -1,6 +1,6 @@
-baseurl = "/blackpoppy/"
-languageCode = "en-us"
-title = "Retroful Hugo"
+baseurl = "https://blackpoppygithub.github.io/blackpoppy/"
+languageCode = "zh-cn"
+title = "黑色波比"
 theme = "retrofulhugo"
 pygmentsUseClasses = true
 publishDir = 'publish'
@@ -14,18 +14,17 @@ publishDir = 'publish'
   commit = false
 
 [Author]
-	handle = "your nickname"
-  name = "your name"
-  email = "your email"
-  github = "your github account"
-  twitter = "your twitter handle"
+	handle = "Black Poppy"
+  name = "Black Poppy"
+  email = "black_poppy@outlook.com"
+  github = "https://github.com/BlackPoppyGithub"
 
 [[menu.main]]
-    name = "Menu Item"
-    url = "http://google.com"
+    name = "大刀分享站"
+    url = "https://www.dddog.com.cn"
     weight = 1
 
-#[[menu.main]]
+# [[menu.main]]
 #    name = "About"
 #    url = "/page/about/"
 #    weight = 2
