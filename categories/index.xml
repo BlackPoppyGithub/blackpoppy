@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Retroful Hugo</title>
-    <link>/categories/</link>
+    <link>/blackpoppy/categories/</link>
     <description>Recent content in Categories on Retroful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>your email (your name)</managingEditor>
     <webMaster>your email (your name)</webMaster>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blackpoppy/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/categories/development/</link>
+      <link>/blackpoppy/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/categories/development/</guid>
+      <guid>/blackpoppy/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/categories/golang/</link>
+      <link>/blackpoppy/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/categories/golang/</guid>
+      <guid>/blackpoppy/categories/golang/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Retroful Hugo</title>
-    <link>/tags/</link>
+    <link>/blackpoppy/tags/</link>
     <description>Recent content in Tags on Retroful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,60 +10,60 @@
     <webMaster>your email (your name)</webMaster>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blackpoppy/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
+      <link>/blackpoppy/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/tags/development/</guid>
+      <guid>/blackpoppy/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>/tags/go/</link>
+      <link>/blackpoppy/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/tags/go/</guid>
+      <guid>/blackpoppy/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>/tags/golang/</link>
+      <link>/blackpoppy/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/tags/golang/</guid>
+      <guid>/blackpoppy/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/tags/hugo/</link>
+      <link>/blackpoppy/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/tags/hugo/</guid>
+      <guid>/blackpoppy/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>/tags/templates/</link>
+      <link>/blackpoppy/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/tags/templates/</guid>
+      <guid>/blackpoppy/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>/tags/themes/</link>
+      <link>/blackpoppy/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       <author>your email (your name)</author>
-      <guid>/tags/themes/</guid>
+      <guid>/blackpoppy/tags/themes/</guid>
       <description></description>
     </item>
     
