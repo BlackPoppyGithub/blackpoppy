@@ -1,7 +1,7 @@
 hugo
 cd publish
-git checkout master
-git pull origin master
+git checkout gh-pages
+git pull origin gh-pages
 git add --all
 git commit -m "publish"
-git push origin master
+git push origin gh-pages
