@@ -17,7 +17,7 @@ publishDir = 'publish'
 	handle = "Black Poppy"
   name = "Black Poppy"
   email = "black_poppy@outlook.com"
-  github = "https://github.com/BlackPoppyGithub"
+  github = "BlackPoppyGithub"
 
 [[menu.main]]
     name = "大刀分享站"
